@@ -1,2 +1,4 @@
-# XQL-Query--XDR-Palo
+# XQL-Query | XDR-Palo
 Hunting with XQL Query 
+
+
